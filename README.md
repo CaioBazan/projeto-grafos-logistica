@@ -28,7 +28,7 @@ Optou-se pelo uso de uma **Lista de Adjacência** para o armazenamento do grafo.
 ##  Como Executar o Projeto
 
 ### Pré-requisitos
-Você precisará apenas do **Python 3.x** instalado em sua máquina. Nenhuma biblioteca externa é necessária (o projeto utiliza apenas estruturas nativas como `heapq` e `collections`).
+Você precisará apenas do Python 3 instalado em sua máquina. Nenhuma biblioteca externa é necessária (o projeto utiliza apenas estruturas nativas como `heapq` e `collections`).
 
 ### Passo a Passo
 
