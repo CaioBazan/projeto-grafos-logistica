@@ -1,10 +1,10 @@
-# 🚚 Sistema de Otimização de Malha Logística (Teoria dos Grafos)
+#  Sistema de Otimização de Malha Logística (Teoria dos Grafos)
 
 Este projeto foi desenvolvido como Avaliação Final para a disciplina de Resolução de Problemas Com Grafos. O sistema modela uma rede de transporte intermunicipal (malha rodoviária) utilizando conceitos de grafos estruturados, aplicando algoritmos clássicos para resolver problemas reais de conectividade, rotas mínimas e otimização de infraestrutura.
 
 ---
 
-## 📌 Sobre o Domínio e Modelagem
+##  Sobre o Domínio e Modelagem
 
 O sistema simula uma rede logística onde:
 * Vértices (Nós): Representam as cidades ou centros de distribuição.
@@ -17,7 +17,7 @@ Optou-se pelo uso de uma **Lista de Adjacência** para o armazenamento do grafo.
 
 ---
 
-## ⚙️ Algoritmos Implementados
+##  Algoritmos Implementados
 
 1. **Busca em Largura (BFS):** Utilizada para mapear a conectividade da malha a partir de uma origem, garantindo que não existam cidades isoladas no sistema.
 2. **Algoritmo de Dijkstra:** Encontra a rota mais curta (menor quilometragem total) entre um ponto de partida e um destino final.
@@ -25,7 +25,7 @@ Optou-se pelo uso de uma **Lista de Adjacência** para o armazenamento do grafo.
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 Você precisará apenas do **Python 3.x** instalado em sua máquina. Nenhuma biblioteca externa é necessária (o projeto utiliza apenas estruturas nativas como `heapq` e `collections`).
